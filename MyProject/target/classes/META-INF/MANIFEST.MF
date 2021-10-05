@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Tin
+Build-Jdk: 11.0.2
+Implementation-Title: MyProject
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.myproject
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: https://projects.spring.io/spring-boot/MyProject/
+Created-By: Maven Integration for Eclipse
+
